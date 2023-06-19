@@ -37,10 +37,18 @@ You may sell and you may distribute devices incorporating the software provided 
   If your device is not free(you make money on it more than 6% profit) you must share some of your profits with copyright holder, as follows:
       if any reasonable court would consider the software the primary or sole contributor to the unique value of the devices(as opposed to a device which does not use or include the software),
       send half of your profits after all expenses to the copyright holder. Otherwise, send 10%.
+      If the device is a denoising DSP device, and includes multiple denoising methods, the contributive share should be allocated based on computational complexity of the methods alone,
+      disregarding other capabilities of the device, which are not the primary reason for purchasing it.
+      Should the software's computational complexity be the greatest of all algorithms included, and at least 10% greater than the next most complex, then it is the primary or sole contributor.
+      If the device is a relay or radio with denoising methods included, then the software is understood not to be a primary or sole contributor to the unique value.
+    
   Regardless, you must provide at least one of the devices(the highest-priced device you make that incorporates the software) to the copyright holder.
   
 You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements 
 on hardware devices. This means you must consider the contributory value of the software, your own licensing situation, and must provide a copy.
+    Programs sold or distributed with a specific purpose must consider the contributory value of the software to the unique value of the program,
+    and if the program is considered a "denoising application" and the primary contributor to computational complexity of said program's denoising algorithms, 
+    as stated in the hardware section above, your usage shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
 
 
 Regardless of your use, you must include with your device or software this license and copywrite declaration.
