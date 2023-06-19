@@ -75,6 +75,8 @@ This notice must be reasonably prominent- printed on a card and included with de
 in easy view in some small dedicated block, or, if you incorporate the software into a program, included as a prominent part of the documentation.
 However, if your program or device or service provides the means to directly access the software's interface and open the URL in a browser, you do not need to display any notice in any interface.
 ==END REUSE TERMS==
+
+
 ==END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
 to cause only a 170.66ms delay, and to work within 32MB of memory on any SSE2 or newer x86-64 system running windows 10 or newer.
