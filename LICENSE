@@ -30,18 +30,20 @@ You may not use the software as part of warrantless surveillance efforts on citi
 You may not(unless you give all of the royalties to copywrite holder) charge explicitly for the software, 
 either to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
 
-You may sell and you may distribute devices incorporating the software provided that you comply with the following:
-  If your device is close-to-or-free(collective costs to consumer only consist of minimium costs in fabrication,shipping, and less than 6% profit)
-  you must inform the user that the software used is that of a third party, and provide the text of the donation link embedded in the software.
+You may sell and you may distribute devices incorporating the software provided that you comply with the following:  
   If your device is not free(you make money on it more than 6% profit) you must share some of your profits with copywrite holder, as follows:
       if any reasonable court would consider the software the primary or sole contributor to the function of the devices, send half of your profits after all expenses to the copywrite holder.
       Otherwise, send 10%.
   Regardless, you must provide at least one of the devices(the highest-priced device you make that incorporates the software) to the copywrite holder.
   
 You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements 
-on hardware devices as stated.
+on hardware devices. This means you must consider the contributory value of the software, your own licensing situation, and must provide a copy.
+
 
 Regardless of your use, you must include with your device or software this license and copywrite declaration.
+You must, unless previously arranged with the copywrite holder, provide a computer interface to access the software controls, which includes the ability to activate
+and access the web URL embedded in the donation link by the end user.
+
 == END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
 to cause only a 170.66ms delay, and to work within 32MB of memory on any SSE2 or newer x86-64 system running windows 10 or newer.
