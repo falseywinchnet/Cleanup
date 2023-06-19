@@ -30,8 +30,12 @@ in a foreign theatre of war if that use is to coordinate or facilitate attack op
 unless that activity is covered under an active declaration of war by your nation's legislative body.
 
 You may not use the software as part of warrantless surveillance efforts on citizens of your own nation. 
-You may not(unless you give all of the royalties to copyright holder) charge explicitly for the software, 
+You may not(unless you give all of the royalties to copyright holder) charge explicitly for the software alone,
 either to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
+
+This license agreement provides for the intentional and intelligent recompensation of copywright holder from profits earned on the basis
+of the usage of the software, with the understanding that your usage consists of incorporating it into value-added devices and programs which
+do not have as a sole purpose "noise reduction", or do have as a sole purpose "noise reduction" but do not as a sole noise-reducing algorithm use the software.
 
 You may sell and you may distribute devices incorporating the software provided that you comply with the following:  
   If your device is not free(you make money on it more than 6% profit) you must share some of your profits with copyright holder, as follows:
@@ -45,13 +49,18 @@ You may sell and you may distribute devices incorporating the software provided 
   Regardless, you must provide at least one of the devices(the highest-priced device you make that incorporates the software) to the copyright holder.
   
 You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements 
-on hardware devices. This means you must consider the contributory value of the software, your own licensing situation, and must provide a copy.
+on hardware devices, as follows:
     Programs sold or distributed with a specific purpose must consider the contributory value of the software to the unique value of the program,
-    and if the program is considered a "denoising application" and the primary contributor to computational complexity of said program's denoising algorithms, 
-    as stated in the hardware section above, is the software, your usage shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
+    and if the program is considered a "denoising application" your usage shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
+
+In all cases where in all respects your software and hardware is freely provided to the user, and you receive no contractual or obligated compensation,
+you owe nothing to the copywrite holder- the software is free for you to use.
+
+In all cases where you operate a relay system or provide communications services, and for which you charge a competive fee billed by usage,
+and for which you do not advertise the software or `noise reduction capability` as part of your service, the software is free for you to use.
 
 
-Regardless of your use, you must include with your device or software this license and copywrite declaration.
+Regardless of your use, you must include with your device or software this license and copywrite declaration, making them available to end users.
 You must provide with said declaration a notice that the software is free donationware and the copywrite holder earnestly seeks their support,
 which can be provided through the link in the software interface or via other means as the user deigns appropriate.
 If you do not provide a means to access the interface and access the website URL linked in the software donation URL,
