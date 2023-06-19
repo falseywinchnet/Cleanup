@@ -44,9 +44,10 @@ on hardware devices. This means you must consider the contributory value of the 
 
 
 Regardless of your use, you must include with your device or software this license and copywrite declaration.
-You must provide a copy or a link to download the software and instructions for your users to can access the software interface on their own desktop computers and by doing so the donation link.
-You must provide with said instructions a notice that the software is free donationware and the copywrite holder earnestly seeks their support,
+You must provide with said declaration a notice that the software is free donationware and the copywrite holder earnestly seeks their support,
 which can be provided through the link in the software interface or via other means as the user deigns appropriate.
+If you do not provide a means to access the interface and access the website URL linked in the software donation URL,
+You must provide either a copy or instructions to obtain a copy, and instructions on how to access the software for seperate use without your devices or programs.
 
 == END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
