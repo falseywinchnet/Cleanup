@@ -29,15 +29,26 @@ under the provisions for incorporation into devices, and not incorporation into 
 the opposite is true(you charge for programs but not for the devices), you agree your usage shall be considered
 under the provisions for incorporation into programs, and not incorporation into devices.
 
-
-This software is free. You may use it, including wrapping it in an x86 emulator on non-x86 systems, 
+ You may use the software, including wrapping it in an x86 emulator on non-x86 systems, 
 including shipping it with your software and/or hardware, providing the following conditions are met:
 You may not reverse engineer the software. You may not modify the software.
+Any audio you produce with the software belongs to the copyright holder of the person who owned the audio that was processed.
+
+==TERMS APPLYING TO TO PERSONAL USE==
+This software is free for personal use. You may install it on as many computers as you like, and use it however you like within the terms of the agreement.
+
+==TERMS APPLYING TO COMMERCIAL AND GOVERNMENT DIRECT USE=
 You may not intentionally use the software to provide communications services to warfighting personnel actively engaged in combat
 in a foreign theatre of war if that use is to coordinate or facilitate attack operations on any adversary, 
 unless that activity is covered under an active declaration of war by your nation's legislative body.
 
-You may not use the software as part of warrantless surveillance efforts on citizens of your own nation. 
+You may not use the software as part of warrantless covert government surveillance efforts on citizens of your own nation. 
+You are honor-bound to pay the copyright holder $2 per month per relay or instance where the program is installed. 
+A non-expiring license costs $240 and voids the requirement to pay a monthly recompensation for a single relay or instance.
+==END TERMS APPLYING TO COMMERCIAL AND GOVERNMENT USE=
+
+
+==TERMS APPLYING TO REUSE==
 You may not(unless you give all of the royalties to copyright holder) take compensation for the software directly,
 whether to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
 
@@ -47,26 +58,24 @@ do not have as a sole purpose "noise reduction", or are devices.
 
 You may sell and you may distribute programs and devices incorporating the software provided that you comply with the following:
 You agree to recompensate the copyright holder $100 per device that incorporates the software.
-You agree to pay the copyright holder $1 per month per relay or instance, providing you are a service provider who charges for a service,
-and your service incorporates the use of the software in any capacity.
+You agree to pay the copyright holder $2 per month per relay or instance, providing you are a service provider who charges for a service,
+and your service incorporates the use of the software in any capacity, or to purchase a commercial non-expiring license for each relay and instance.
 You agree to share earnings from software with copyright owner of $5 per paid copy you sell of said software.
     
-
 In all cases where in all respects your programs, services and hardware are freely provided to users, and you receive no contractual or obligated compensation,
 you owe nothing to the copyright holder- the software is free for you to use and incorporate into your services, programs and devices.
 
-
-Regardless of your use, you must include with your device or software or service documentation this license and copyright declaration, making them available to end users.
+Regardless of reuse, you must include with your device or software or service documentation this license and copyright declaration, making them available to end users.
 If your use is free, you must provide with said license a notice that the software is free donationware and the copyright holder earnestly seeks their support,
 donations which can be provided through the link in the software interface or via other means as the user deigns appropriate.
 
-if your use is free, and if you do not provide a means for the user to access the interface and access the website URL linked in the software donation URL,
+if your service, device or product is free to your users, and if you do not provide a means for the user to access the interface and access the website URL linked in the software donation URL,
 You must provide either a copy or instructions to obtain a copy, and instructions on how to access the software for seperate use without your devices or programs.
 This notice must be reasonably prominent- printed on a card and included with devices intended for end users, included in a statement on the service primary access portal
 in easy view in some small dedicated block, or, if you incorporate the software into a program, included as a prominent part of the documentation.
 However, if your program or device or service provides the means to directly access the software's interface and open the URL in a browser, you do not need to display any notice in any interface.
-
-== END LICENSE==
+==END REUSE TERMS==
+==END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
 to cause only a 170.66ms delay, and to work within 32MB of memory on any SSE2 or newer x86-64 system running windows 10 or newer.
 Binaries for your platform and architecture are available on request. 
