@@ -46,44 +46,25 @@ of the usage of the software, with the understanding that your usage consists of
 do not have as a sole purpose "noise reduction", or are devices.
 
 You may sell and you may distribute programs and devices incorporating the software provided that you comply with the following:
-  Devices and programs which net more than 6% profit after manufacturing and processing expenses are considered "profitable".
-  Programs which solely are designed to provide denoising shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
-
-  If your device is profitable you must share some of your profits with copyright holder, as follows:
-      if any reasonable court would consider the software the primary or sole contributor to the unique value of the devices(as opposed to a device which does not use or include the software),
-      send half of your profits after all expenses to the copyright holder. Otherwise, send 10% of your profits after all expenses.
-      If the device is a denoising DSP device, and includes multiple denoising methods, the contributive share should be allocated based on computational complexity of the methods alone,
-      disregarding other capabilities of the device.
-      Should the software's computational complexity be the greatest of all algorithms included, and at least 10% greater than the next most complex, then it is the primary or sole contributor.
-      If the device is a relay or radio with denoising methods included, or other non-denoising device, then the software is understood not to be a primary or sole contributor to the unique value.
-      the recompensative percentile shall be 6% of your profits after manufacturing and processing expenses for the first 10 years you incorporate the software.
-    
-  Regardless, you must provide freely at least one of the devices(the highest-priced device you make that incorporates the software) to the copyright holder.
-  
-  You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements on hardware devices, as follows:
-    Provided that your program is considerably sophisticated and complex and does not have a sole or primary purpose of noise filtration,
-    your use is considered `for profit hardware use` and should be recompensated in accordance with the hardware terms as if your software was a hardware device that was not considered
-    a denoising DSP. In this respect, 6%, and one licensed copy of your software.
+You agree to recompensate the copyright holder $100 per device that incorporates the software.
+You agree to pay the copyright holder $1 per month per relay or instance, providing you are a service provider who charges for a service,
+and your service incorporates the use of the software in any capacity.
+You agree to share earnings from software with copyright owner of $5 per paid copy you sell of said software.
     
 
-In all cases where in all respects your programs and hardware is freely provided to users, and you receive no contractual or obligated compensation,
-you owe nothing to the copyright holder- the software is free for you to use and incorporate into your programs and devices.
+In all cases where in all respects your programs, services and hardware are freely provided to users, and you receive no contractual or obligated compensation,
+you owe nothing to the copyright holder- the software is free for you to use and incorporate into your services, programs and devices.
 
-In all cases where you operate a relay system or provide communications services, and for which you charge a competive fee billed by usage,
-and for which you do not advertise the software or `noise reduction capability` as part of your service, the software is free for you to use.
-Your use of the software if `noise reduction capability` is an advertised feature of the service shall be pro-rated as "hardware use"-
-if it is the sole or primary denoising method used, you must recompensate half of your all profits that exceed the competitive mean.
-Otherwise, you must recompensate 6%.
 
 Regardless of your use, you must include with your device or software or service documentation this license and copyright declaration, making them available to end users.
-You must provide with said license a notice that the software is free donationware and the copyright holder earnestly seeks their support,
+If your use is free, you must provide with said license a notice that the software is free donationware and the copyright holder earnestly seeks their support,
 donations which can be provided through the link in the software interface or via other means as the user deigns appropriate.
 
-If you do not provide a means to access the interface and access the website URL linked in the software donation URL,
+if your use is free, and if you do not provide a means for the user to access the interface and access the website URL linked in the software donation URL,
 You must provide either a copy or instructions to obtain a copy, and instructions on how to access the software for seperate use without your devices or programs.
 This notice must be reasonably prominent- printed on a card and included with devices intended for end users, included in a statement on the service primary access portal
 in easy view in some small dedicated block, or, if you incorporate the software into a program, included as a prominent part of the documentation.
-However, if your program provides the means to directly access the software's interface and open the URL in a browser, you do not need to display any notice in any interface.
+However, if your program or device or service provides the means to directly access the software's interface and open the URL in a browser, you do not need to display any notice in any interface.
 
 == END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
