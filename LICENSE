@@ -30,39 +30,46 @@ in a foreign theatre of war if that use is to coordinate or facilitate attack op
 unless that activity is covered under an active declaration of war by your nation's legislative body.
 
 You may not use the software as part of warrantless surveillance efforts on citizens of your own nation. 
-You may not(unless you give all of the royalties to copyright holder) charge explicitly for the software alone,
-either to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
+You may not(unless you give all of the royalties to copyright holder) take compensation for the software directly,
+whether to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
 
-This license agreement provides for the intentional and intelligent recompensation of copywright holder from profits earned on the basis
+This license agreement provides for the intentional and intelligent recompensation of copyright holder from profits earned on the basis
 of the usage of the software, with the understanding that your usage consists of incorporating it into value-added devices and programs which
 do not have as a sole purpose "noise reduction", or do have as a sole purpose "noise reduction" but do not as a sole noise-reducing algorithm use the software.
 
-You may sell and you may distribute devices incorporating the software provided that you comply with the following:  
-  If your device is not free(you make money on it more than 6% profit) you must share some of your profits with copyright holder, as follows:
-      if any reasonable court would consider the software the primary or sole contributor to the unique value of the devices(as opposed to a device which does not use or include the software),
-      send half of your profits after all expenses to the copyright holder. Otherwise, send 10%.
-      If the device is a denoising DSP device, and includes multiple denoising methods, the contributive share should be allocated based on computational complexity of the methods alone,
-      disregarding other capabilities of the device, which are not the primary reason for purchasing it.
-      Should the software's computational complexity be the greatest of all algorithms included, and at least 10% greater than the next most complex, then it is the primary or sole contributor.
-      If the device is a relay or radio with denoising methods included, then the software is understood not to be a primary or sole contributor to the unique value.
-    
-  Regardless, you must provide at least one of the devices(the highest-priced device you make that incorporates the software) to the copyright holder.
-  
-You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements 
-on hardware devices, as follows:
-    Programs sold or distributed with a specific purpose must consider the contributory value of the software to the unique value of the program,
-    and if the program is considered a "denoising application" your usage shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
+You may sell and you may distribute programs and devices incorporating the software provided that you comply with the following:
+  Devices and programs which net more than 6% profit after manufacturing and processing expenses are considered "profitable".
+  Programs which solely are designed to provide denoising shall be considered "enabling" and therefore subject to the relevant part of this license(you get nothing).
 
-In all cases where in all respects your software and hardware is freely provided to the user, and you receive no contractual or obligated compensation,
-you owe nothing to the copywrite holder- the software is free for you to use.
+  If your device is profitable you must share some of your profits with copyright holder, as follows:
+      if any reasonable court would consider the software the primary or sole contributor to the unique value of the devices(as opposed to a device which does not use or include the software),
+      send half of your profits after all expenses to the copyright holder. Otherwise, send 10% of your profits after all expenses.
+      If the device is a denoising DSP device, and includes multiple denoising methods, the contributive share should be allocated based on computational complexity of the methods alone,
+      disregarding other capabilities of the device.
+      Should the software's computational complexity be the greatest of all algorithms included, and at least 10% greater than the next most complex, then it is the primary or sole contributor.
+      If the device is a relay or radio with denoising methods included, or other non-denoising device, then the software is understood not to be a primary or sole contributor to the unique value.
+      the recompensative percentile shall be 6% of your profits after manufacturing and processing expenses for the first 10 years you incorporate the software.
+    
+  Regardless, you must provide freely at least one of the devices(the highest-priced device you make that incorporates the software) to the copyright holder.
+  
+  You may sell and distribute your own programs incoporating or making use through a host mechanism, the software, provided you comply with the requirements on hardware devices, as follows:
+    Provided that your program is considerably sophisticated and complex and does not have a sole or primary purpose of noise filtration,
+    your use is considered `for profit hardware use` and should be recompensated in accordance with the hardware terms as if your software was a hardware device that was not considered
+    a denoising DSP. In this respect, 6%, and one licensed copy of your software.
+    
+
+In all cases where in all respects your programs and hardware is freely provided to users, and you receive no contractual or obligated compensation,
+you owe nothing to the copyright holder- the software is free for you to use and incorporate into your programs and devices.
 
 In all cases where you operate a relay system or provide communications services, and for which you charge a competive fee billed by usage,
 and for which you do not advertise the software or `noise reduction capability` as part of your service, the software is free for you to use.
+Your use of the software if `noise reduction capability` is an advertised feature of the service shall be pro-rated as "hardware use"-
+if it is the sole or primary denoising method used, you must recompensate half of your all profits that exceed the competitive mean.
+Otherwise, you must recompensate 1
 
-
-Regardless of your use, you must include with your device or software this license and copywrite declaration, making them available to end users.
-You must provide with said declaration a notice that the software is free donationware and the copywrite holder earnestly seeks their support,
-which can be provided through the link in the software interface or via other means as the user deigns appropriate.
+Regardless of your use, you must include with your device or software this license and copyright declaration, making them available to end users.
+You must provide with said declaration a notice that the software is free donationware and the copyright holder earnestly seeks their support,
+donations which can be provided through the link in the software interface or via other means as the user deigns appropriate.
 If you do not provide a means to access the interface and access the website URL linked in the software donation URL,
 You must provide either a copy or instructions to obtain a copy, and instructions on how to access the software for seperate use without your devices or programs.
 
