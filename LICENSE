@@ -75,11 +75,15 @@ Your use of the software if `noise reduction capability` is an advertised featur
 if it is the sole or primary denoising method used, you must recompensate half of your all profits that exceed the competitive mean.
 Otherwise, you must recompensate 6%.
 
-Regardless of your use, you must include with your device or software this license and copyright declaration, making them available to end users.
-You must provide with said declaration a notice that the software is free donationware and the copyright holder earnestly seeks their support,
+Regardless of your use, you must include with your device or software or service documentation this license and copyright declaration, making them available to end users.
+You must provide with said license a notice that the software is free donationware and the copyright holder earnestly seeks their support,
 donations which can be provided through the link in the software interface or via other means as the user deigns appropriate.
+
 If you do not provide a means to access the interface and access the website URL linked in the software donation URL,
 You must provide either a copy or instructions to obtain a copy, and instructions on how to access the software for seperate use without your devices or programs.
+This notice must be reasonably prominent- printed on a card and included with devices intended for end users, included in a statement on the service primary access portal
+in easy view in some small dedicated block, or, if you incorporate the software into a program, included as a prominent part of the documentation.
+However, if your program provides the means to directly access the software's interface and open the URL in a browser, you do not need to display any notice in any interface.
 
 == END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
