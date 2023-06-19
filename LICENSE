@@ -20,7 +20,15 @@ ANY INJURIES OR EXPENSES SUSTAINED IN THE ACT OF FULFILLING ANY OF
 THE ABOVE TERMS AND CONDITIONS, ACCIDENTAL OR OTHERWISE.
 
 For the purposes of this license agreeement, "the software/this software" refers to the copyright protected
-and licensed binaries and source code offered in this repository.
+and licensed binaries and source code offered in this repository. 
+"programs" consists of software developed by you or others.
+"devices" consist of any physical electronic device you develop, license or sell.
+In the case that you develop programs which incorporate the software, and distribute them on devices,
+and do not charge for the programs, but do charge for devices, you agree your usage shall be considered
+under the provisions for incorporation into devices, and not incorporation into programs, likewise, if
+the opposite is true(you charge for programs but not for the devices), you agree your usage shall be considered
+under the provisions for incorporation into programs, and not incorporation into devices.
+
 
 This software is free. You may use it, including wrapping it in an x86 emulator on non-x86 systems, 
 including shipping it with your software and/or hardware, providing the following conditions are met:
