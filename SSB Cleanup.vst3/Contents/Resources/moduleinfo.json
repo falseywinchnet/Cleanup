@@ -1,0 +1,58 @@
+{
+  "Name": "SSB Cleanup",
+  "Version": "1.619",
+  "Factory Info": {
+    "Vendor": "Joshuah Rainstar",
+    "URL": "https://github.com/falseywinchnet/cleanup",
+    "E-Mail": "joshuah.rainstar@gmail.com",
+    "Flags": {
+      "Unicode": true,
+      "Classes Discardable": false,
+      "Component Non Discardable": false,
+    },
+  },
+  "Classes": [
+    {
+      "CID": "ABCDEF01C0DEF00D5261696E43737362",
+      "Category": "Plugin Compatibility Class",
+      "Name": "Cleanup",
+      "Vendor": "Joshuah Rainstar",
+      "Version": "1.619",
+      "SDKVersion": "VST 3.7.8",
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF019182FAEB5261696E43737362",
+      "Category": "Audio Module Class",
+      "Name": "Cleanup",
+      "Vendor": "Joshuah Rainstar",
+      "Version": "1.619",
+      "SDKVersion": "VST 3.7.8",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+    {
+      "CID": "ABCDEF011234ABCD5261696E43737362",
+      "Category": "Component Controller Class",
+      "Name": "Cleanup",
+      "Vendor": "Joshuah Rainstar",
+      "Version": "1.619",
+      "SDKVersion": "VST 3.7.8",
+      "Sub Categories": [
+        "Fx",
+      ],
+      "Class Flags": 0,
+      "Cardinality": 2147483647,
+      "Snapshots": [
+      ],
+    },
+  ],
+}
