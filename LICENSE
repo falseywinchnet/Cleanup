@@ -80,8 +80,12 @@ re-use.
 ==TERMS APPLYING TO REUSE==
 You may not(unless you give all of the royalties to copyright holder) take compensation for the software directly,
 whether to install it, make it available, activate, unlock, enable, include, or any other such mechanism.
-The distribution of a DSP program which has as a purpose denoising and which wraps the software shall be considered "enabling" and
-is prohibited unless all royalties are forfeited to the copyright holder.
+You agree that the distribution of any program which incorporates the software must have a substantial purpose other than noise reduction,
+and if it does not, it must be considered "enabling" and all royalties are to be forfeited to the copyright holder.
+For the purpose of this license, "substantial" explicitly excludes equalizers, other denoising algorithms, resampling algorithms,decoding/encoding algorithms,
+audio device handling logic, audio device drivers, display interface logic, or algorithms and programming necessary to use the aforementioned together-
+You agree the presence of any or all of these items do not create a "substantial purpose" and do not provide an exception to the forfeiture of royalties.
+
 
 This license agreement provides for the intentional and intelligent recompensation of copyright holder from profits earned on the basis
 of the usage of the software in "re-use" scenarios with the understanding that "re-use" consists of incorporating the software into value-added devices and programs which
