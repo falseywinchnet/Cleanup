@@ -155,4 +155,6 @@ Irrespective of reuse category, licensee must include with their device or softw
 ==END LICENSE==
 The software provided here is declared to nominally work on a carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide adequet noise filtration and impulse noise immunity for voice activity only,
 to cause only a 170.66ms delay, and to work within 32MB of memory on any SSE2 or newer x86-64 system running windows 10 or newer.
+The software is declared to not include any encryption algorithms or to offer any warrantee of suitability, and is excempt from all known controls on software distribution.
+
 Binaries for your platform and architecture are available on request. 
