@@ -16,8 +16,17 @@ However, the legal re-use for a profitable purpose is considered on a `what valu
 
 ==LICENSE BEGINS==
 FREE AS IN FREE TOOTHPASTE FREE/DONATIONWARE LICENSE
+Version 1.0 6.22.23
 Copyright (c) 2023, Joshuah Rainstar joshuah.rainstar@gmail.com
 All rights reserved.
+
+This software is licensed under the FREE AS IN FREE TOOTHPASTE FREE/DONATIONWARE LICENSE.
+By using this software, you are agreeing to the terms and conditions laid out in the license.
+For the purposes of this license agreement, "licensor" shall be considered equivalent to the copyright holder.
+No part of this license agreement waives or voids the copyright holder's rights pertaining to the software.
+For the purposes of this license agreeement, "the software/this software" refers to the copyright protected and licensed binaries and source code offered in this repository.
+Subject to the terms and conditions of this agreement, copyright holder hereby grants you a non-exclusive, non-transferable right to use the software.
+This agreement shall be governed by and construed in accordance with the laws of the State of Delaware, United States, without regard to its conflict of laws rules.
 
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
@@ -35,27 +44,40 @@ POSSIBILITY OF SUCH DAMAGE. COPYRIGHT HOLDER ACCEPTS NO LIABILITY FOR
 ANY INJURIES OR EXPENSES SUSTAINED IN THE ACT OF FULFILLING ANY OF 
 THE ABOVE TERMS AND CONDITIONS, ACCIDENTAL OR OTHERWISE.
 
-For the purposes of this license agreeement, "the software/this software" refers to the copyright protected
-and licensed binaries and source code offered in this repository. 
-"programs" consist of software developed by you or others.
-"devices" consist of any physical electronic device you develop, license or sell.
+
+ You may use the software, including wrapping it in an x86 emulator on non-x86 systems, 
+including shipping it with your software and/or hardware, providing the following conditions are met:
+
+You may not reverse engineer the software. You may not modify the software.
+Any audio you produce with the software belongs to the copyright holder of the person who owned the audio that was processed.
+Other terms must be met additionally as provided below. 
+
+For this license agreement, "programs" shall consist of software developed by you or others, and
+"devices" shall consist of any physical electronic device you develop, license or sell.
+For the purposes of this license, 'incorporation' of the Software into other programs or devices is defined as the
+integration of the Software's functionality into such programs or devices that makes use of the Software's primary features or functions.
+Distribution' refers to the act of making the Software available to others through selling, leasing, 
+or otherwise transferring copies of the Software in its standalone form or as part of other software or devices.
+
 In the eventuality that you develop programs which incorporate the software, and distribute them on devices,
 and do not charge for the programs, but do charge for devices, you agree your usage shall be considered
 under the provisions for incorporation into devices, and not incorporation into programs, likewise, if
 the opposite is true(you charge for programs but not for the devices), you agree your usage shall be considered
 under the provisions for incorporation into programs, and not incorporation into devices.
 
- You may use the software, including wrapping it in an x86 emulator on non-x86 systems, 
-including shipping it with your software and/or hardware, providing the following conditions are met:
-You may not reverse engineer the software. You may not modify the software.
-Any audio you produce with the software belongs to the copyright holder of the person who owned the audio that was processed.
-Other terms must be met additionally as provided below. 
-Terms in the "applying to personal use" section apply to the direct use of the software by an end user, for personal and education uses only.
-Terms in the "commercial and government direct use" section apply to the installation and operation of the software on work-related electronic devices
-in a public or private workplace. terms in the "reuse" section apply to the integration and packaging of the software with other programs and devices for resale,
-leasing, or other forms of distribution which may or may not entail compensation to the manufacturer. 
 
-If you do not agree to the terms you may not use the software.
+Terms in the "applying to personal use" section shall apply to the direct use of the software by an end user, for personal and education uses only.
+Terms in the "commercial and government direct use" section shall apply to the installation and operation of the software on work-related electronic devices
+in a public or private workplace. terms in the "reuse" section shall apply to the integration and packaging of the software with other programs and devices for resale,
+leasing, or other forms of distribution which may or may not entail compensation to the manufacturer(s) or creator(s). 
+
+If you do not agree to the terms you may not use the software, and you must destroy all copies in your possession.
+In the event that you violate the terms of this agreement, your rights to use the software are suspended. 
+You are required to cease use of the software and destroy all copies in your possession until such a time as the violation is remedied to the satisfaction of the licensor. 
+Notwithstanding any suspension or cessation of your rights, the remainder of this agreement remains in effect.
+
+Changes to this Agreement will apply only to new uses or distribution of the Software. All previous uses and distributions will be governed by the Agreement in place at the time of that use or distribution. 
+Any changes to the Agreement will be communicated clearly and directly to all current users and distributors.
 
 ==TERMS APPLYING TO TO PERSONAL USE==
 This software is free for personal use. You may install it on as many computers as you like, and use it however you like within the terms of the license agreement.
@@ -63,13 +85,12 @@ Additionally, if you use the software in an educational capacity, whether as par
 ==END TERMS APPLYING TO TO PERSONAL USE==
 
 ==TERMS APPLYING TO COMMERCIAL AND GOVERNMENT DIRECT USE=
-You may not intentionally use the software to provide communications services to warfighting personnel actively engaged in combat
-in a foreign theatre of war if that use is to coordinate or facilitate attack operations on any adversary, 
-unless that activity is covered under an active declaration of war by your nation's legislative body.
+The Software may not be used to support or facilitate communications pertaining to battle planning or tactical command channels involved with
+offensive military operations in foreign territories or over international waters without a formal declaration of war by your nation's legislative body.
 
 You may not use the software as part of warrantless covert government surveillance efforts on citizens of your own nation. 
-You are honor-bound to pay the copyright holder $2 per month per relay or instance where the program is installed. 
-A non-expiring license costs $240 and voids the requirement to pay a monthly recompensation for a single relay or instance.
+You are expected, but not legally required(you are honor-bound) to pay the copyright holder $2 per month per instance where the program is installed. 
+A non-expiring license costs $240 and voids the requirement to pay a monthly recompensation for a single instance.
 
 The commercial and government terms do not apply to individuals or organizations in the private sector covered under re-use.
 Likewise, only the direct usage of the software is considered `honor-bound`- the incorporation of the software into a paid program, service, or device shall be considered
@@ -95,7 +116,7 @@ Category 2: Devices which may have as a primary purpose denoising or digital sig
 
 You may sell and you may distribute programs and devices incorporating the software provided that you comply with the following:
 You agree to recompensate the copyright holder $100 per device that incorporates the software.
-You agree to pay the copyright holder $2 per month per relay or instance, providing you are a service provider who charges for a service,
+You agree to pay the copyright holder $2 per month per instance, providing you are a service provider who charges for a service,
 and your service incorporates the use of the software in any capacity, or to purchase a commercial non-expiring license for each relay and instance.
 You agree to share earnings from software with copyright owner of $5 per paid copy you sell of said software.
 
