@@ -87,7 +87,8 @@ Category 1: DSP software distribution:
 You agree that the distribution of any program which incorporates the software must have a substantial purpose other than noise reduction,
 and if it does not, it must be considered "enabling" and all royalties are to be forfeited to the copyright holder.
 For the purpose of this license, "substantial" explicitly excludes equalizers, other denoising algorithms, resampling algorithms,decoding/encoding algorithms,
-audio device handling logic, audio device drivers, display interface logic, or algorithms and programming necessary to use the aforementioned together-
+audio device handling logic, audio device drivers, audio mixers, audio compressors or expanders, audio gain control algorithms, 
+display interface logic, or algorithms and programming necessary to use the aforementioned together-
 You agree the presence of any or all of these items do not create a "substantial purpose" and do not provide an exception to the forfeiture of royalties.
 
 Category 2: Devices which may have as a primary purpose denoising or digital signal processing, and programs and devices which have other substantial purposes:
