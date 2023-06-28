@@ -1,3 +1,14 @@
+Copyright Joshuah Rainstar 2023 
+Licensed under the Free as in Free Toothpaste license
+
+
+Instructions for how to use the DLL:
+The dll allocates a bunch of stack, very little heap.
+All statically allocated std::arrays- no vectors!
+<complex><numeric><algorithm><cmath><array>
+
+
+
 extern "C" {
     using dfloat = double;
     __declspec(dllexport) void setConstant(double* value) {
