@@ -1,5 +1,5 @@
 # Cleanup 
-Cleanup is a novel DSP algorithm for denoising speech. Cleanup is donationware except for paid reuse, see license details.\
+Cleanup is a novel DSP algorithm for denoising speech. Cleanup is donationware for individuals, requiring a license for some commercial uses, see license details.\
 It is designed to work primarily on radio- shortwave, FM, VHF, UHF. It does beat any AI currently on the market.\
 It is designed to work at a 48hkz input rate, but the core algorithm can be adapted for use at 6,12,and 24k rates.\
 The use of a notch filter(carrier suppression) is highly advised before this algorithm in the pipeline.\
