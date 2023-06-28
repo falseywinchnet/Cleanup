@@ -59,7 +59,7 @@ int main() {
     funcSetNBins(&nBins);
 
     std::array<dfloat, 8192> inputArray;
-    funcProcess(&inputArray);
+    funcProcess(&inputArray); #will impose a fixed 170.66ms delay
 
     FreeLibrary(hGetProcIDDLL);
     return 0;
