@@ -16,10 +16,10 @@ Licensed under the Free as in Free Toothpaste license
 using dfloat = double;
 
 extern "C" {
-    __declspec(dllimport) void setConstant(double* value); #ensure range is between 0.045 and 0.085, defaults to 0.057
-    __declspec(dllimport) void set_MULT(double* value); #ensure range is between 0 and 1, defaults to 1
-    __declspec(dllimport) void set_NBINS(int* value); #ensure range is between 5 and 257, defaults to 37
-    __declspec(dllimport) void process(std::array<dfloat, 8192>* input); #ensure sampling rate is 48k
+    __declspec(dllimport) void setConstant(double* value); //ensure range is between 0.045 and 0.085, defaults to 0.057
+    __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0 and 1, defaults to 1
+    __declspec(dllimport) void set_NBINS(int* value); //ensure range is between 5 and 257, defaults to 37
+    __declspec(dllimport) void process(std::array<dfloat, 8192>* input); //ensure sampling rate is 48k
 }
 
 int main() {
