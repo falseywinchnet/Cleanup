@@ -6,7 +6,7 @@ Licensed under the Free as in Free Toothpaste license
 - it links to complex, numeric, algorithm, cmath, and array headers only. 
 - no dynamic memory- all static. 16mb of stack per instance.
 - absolutely no memset or recursion anywhere- all standard arrays and clean behavior.
-- dll size uncompressed is ~5.5mb, compressed is ~35kb.
+- dll is mostly zeros because of clang- uncompressed is ~5.5mb, compressed is ~35kb.
 
 ```cpp
 //example implementation shim
