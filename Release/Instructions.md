@@ -1,13 +1,12 @@
+# Cleanup DLL Instructions
 Copyright Joshuah Rainstar 2023 
 Licensed under the Free as in Free Toothpaste license
 
-
-Instructions for how to use the DLL:
-The dll allocates a bunch of stack, very little heap.
-All statically allocated std::arrays- no vectors!
-<complex><numeric><algorithm><cmath><array>
-Does not rely on any external libraries or runtimes.
-
+- The dll allocates a bunch of stack, very little heap.
+- it links to complex, numeric, algorithm, cmath, and array headers only. 
+- no dynamic memory- all static. 16mb of stack per instance.
+- absolutely no memset or recursion anywhere- all standard arrays and clean behavior.
+- dll size uncompressed is ~5.5mb, compressed is ~35kb.
 
 ```cpp
 //example implementation shim
@@ -65,3 +64,5 @@ int main() {
     return 0;
 }
 ```
+
+
