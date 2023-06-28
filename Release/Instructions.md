@@ -6,6 +6,7 @@ Instructions for how to use the DLL:
 The dll allocates a bunch of stack, very little heap.
 All statically allocated std::arrays- no vectors!
 <complex><numeric><algorithm><cmath><array>
+Does not rely on any external libraries or runtimes.
 
 
 ```cpp
@@ -24,7 +25,7 @@ extern "C" {
     }
 
     __declspec(dllexport) void process(std::array<dfloat, 8192>* input) {
-            filter.process(*input); 
+            filter.process(*input);  //only use with 48khz inputs
         }
 }
 ```
