@@ -8,7 +8,7 @@ All statically allocated std::arrays- no vectors!
 <complex><numeric><algorithm><cmath><array>
 
 
-
+```cpp
 extern "C" {
     using dfloat = double;
     __declspec(dllexport) void setConstant(double* value) {
@@ -27,3 +27,4 @@ extern "C" {
             filter.process(*input); 
         }
 }
+```
