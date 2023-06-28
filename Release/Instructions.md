@@ -17,9 +17,9 @@ Does not rely on any external libraries or runtimes.
 using dfloat = double;
 
 extern "C" {
-    __declspec(dllimport) void setConstant(double* value); #ensure range is between 0.045 and 0.085
-    __declspec(dllimport) void set_MULT(double* value); #ensure range is between 0 and 1
-    __declspec(dllimport) void set_NBINS(int* value); #ensure range is between 5 and 257
+    __declspec(dllimport) void setConstant(double* value); #ensure range is between 0.045 and 0.085, defaults to 0.057
+    __declspec(dllimport) void set_MULT(double* value); #ensure range is between 0 and 1, defaults to 1
+    __declspec(dllimport) void set_NBINS(int* value); #ensure range is between 5 and 257, defaults to 37
     __declspec(dllimport) void process(std::array<dfloat, 8192>* input); #ensure sampling rate is 48k
 }
 
@@ -49,17 +49,17 @@ int main() {
     }
 
     // Now you can call the functions
-    double constant = 0.06;
+    double constant = 0.057;
     funcSetConstant(&constant);
 
-    double mult = 0.5;
+    double mult = 1.0;
     funcSetMult(&mult);
 
-    int nBins = 10;
+    int nBins = 37;
     funcSetNBins(&nBins);
 
     std::array<dfloat, 8192> inputArray;
-    funcProcess(&inputArray); #will impose a fixed 170.66ms delay
+    funcProcess(&inputArray); //will impose a fixed 170.66ms delay
 
     FreeLibrary(hGetProcIDDLL);
     return 0;
