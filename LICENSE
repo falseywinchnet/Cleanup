@@ -58,10 +58,16 @@ HOLDER ACCEPTS NO LIABILITY FOR ANY INJURIES OR EXPENSES SUSTAINED IN
 THE ACT OF FULFILLING ANY OF THE ABOVE TERMS AND CONDITIONS, ACCIDENTAL 
 OR OTHERWISE.
 
+Subject to the terms of this Agreement, Licensor grants to Licensee
+a limited and nonexclusive license (without the right to sublicense)
+to execute one (1) copy of the Software, in executable object code form only,
+solely on the device that Licensee own or controls and solely for use for Licensee's personal, non-commercial purposes,
+except for specific provisions as declared elsewhere in this agreement.
+
 
 Licensee may use the software, including wrapping it in an x86 emulator 
 on non-x86 systems,  including shipping it with Licensee's software 
-and/or hardware, providing the following conditions are met:
+and/or hardware, provided the following conditions are met:
 
 Licensee may not reverse engineer the software. Licensee may not modify 
 the software. Any audio Licensee modifies or produces with the software 
