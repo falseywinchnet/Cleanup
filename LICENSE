@@ -105,6 +105,9 @@ In the eventuality that Licensee utilizes the outputs of the Software to
 train a machine learning method to replicate the behavior of the Software, 
 Licensee acknowledges and agrees that such conduct will be deemed "reverse engineering".
 
+Furthermore, Licensee additionally agrees that to modify, translate, decompile, disassemble 
+or generate works derived from the Software,shall be considered "reverse-engineering".
+
 Licensee acknowledges and agrees that the Software contains valuable trade secrets and proprietary information
 of the copyright holder, that any reverse engineering actual or threatened will constitute 
 immediate, irreparable harm for which monetary damages would be an inadequate remedy,
@@ -143,6 +146,9 @@ Any waiver or failure by the copyright holder to enforce any provision of this l
 on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
 
 
+The agreement is concluded for an indefinite period.
+The Licensee’s right to use the Software shall end automatically
+without notice in the event of non-compliance with any of the conditions of this agreement.
 
 If Licensee does not agree to the terms Licensee may not use the software, 
 and Licensee must destroy all copies in their possession. In the event 
@@ -161,6 +167,11 @@ remains in effect.
 This software is free for personal use. Licensee may install it on as 
 many computers as they like, and use it however Licensee likes within 
 the terms of the license agreement.
+
+Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
+Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
+or to use it in any other form for commercial purposes. 
+
 Additionally, if Licensee uses the software in an educational capacity, 
 whether as part of a public or private sector academic institution, then 
 Licensee's use shall be considered personal, unless Licensee was paid to
@@ -177,7 +188,6 @@ nation's legislative body. Communications which pertain to the operations
 of airborne assets in response to hostile anticipated airspace intrusion
 is considered non-offensive and is permitted.
 
-
 Licensee may not use the software as part of warrantless covert 
 government surveillance efforts on citizens of Licensee's nation. 
 Licensee is expected, but not legally required(Licensees are honor-bound)
@@ -192,6 +202,9 @@ value-added work done for customers, clients or others, even as part of
 a broader offering where the usage is unclear or undeclared, shall be 
 considered "re-use" and must be licensed under the "re-use" provision. 
 
+Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
+Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
+or to use it in any other form for commercial purposes. 
 
 The commercial and government terms do not apply to individuals or 
 organizations in the private sector covered under re-use, including 
@@ -204,6 +217,11 @@ into a paid program, service, or device shall be considered re-use.
 
 
 ==TERMS APPLYING TO REUSE==
+
+Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
+Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
+or to use it in any other form for commercial purposes, except as provided under the specific conditions listed below:
+
 Licensee may not(unless Licensee gives all of the royalties to copyright 
 holder) take compensation for the software, whether to install it, make 
 it available, activate, unlock, enable, include, or any other such 
@@ -282,6 +300,7 @@ declaration, making them available to end users.
 
 ==END REUSE TERMS==
 
+ All supplements to this contract, including this clause, must be made in writing.
 
 ==END LICENSE==
 The software provided here is declared to nominally work on a 
