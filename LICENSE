@@ -5,7 +5,7 @@ Reuse for profit or to provide a service is restricted.
 
 ==LICENSE BEGINS==
 FREE AS IN FREE TOOTHPASTE FREE/DONATIONWARE LICENSE
-Version 1.0 6.22.23
+Version 1.1 6.28.23
 Copyright (c) 2023, Joshuah Rainstar joshuah.rainstar@gmail.com
 All rights reserved.
 
@@ -72,6 +72,24 @@ and not incorporation into programs, likewise, if the opposite is
 true(Licensee charges for programs but not for the devices), Licensee 
 agrees the usage shall be considered under the provisions for 
 incorporation into programs, and not incorporation into devices.
+
+In the eventuality that Licensee utilizes the outputs of the Software 
+to train a machine learning method to replicate the behavior of the Software,
+Licensee agrees that these actions shall constitute "reverse engineering"
+and constitute a breach of license. 
+
+In the eventuality that Licensee utilizes the outputs of the Software to 
+train a machine learning method to replicate the behavior of the Software, 
+Licensee acknowledges and agrees that such conduct will be deemed "reverse engineering".
+
+You acknowledge that the Software contains valuable trade secrets and proprietary information
+of the copyright holder, that any reverse engineering actual or threatened will constitute 
+immediate, irreparable harm for which monetary damages would be an inadequate remedy, 
+and that injunctive relief is an appropriate but not limiting remedy for such breach.
+Therefore, under such circumstances, Licensor reserves the right to pursue all remedies 
+available under law, including but not limited to, seeking injunctive relief, damages, 
+and any applicable statutory penalties.
+
 
 
 Terms in the "applying to personal use" section shall apply to the direct 
