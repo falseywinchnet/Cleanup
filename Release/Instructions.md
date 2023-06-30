@@ -4,16 +4,18 @@ Licensed under the Free as in Free Toothpaste license
 
 - The dll allocates a bunch of stack, very little heap.
 - it links to complex, numeric, algorithm, cmath, and array headers only. 
-- no dynamic memory- all static. 16mb of stack per instance.
+- no dynamic memory- all static. 16mb of stack reserved per instance. At most- 5mb used.
 - absolutely no memset or recursion anywhere- all standard arrays and clean behavior.
-- dll is mostly zeros because of clang- uncompressed is ~5.5mb, compressed is ~35kb.
+- the fast versions expect an array of float, the correct versions expect array of doubles.
+- suggest using `fast` x86 for embedded devices. 
 
 ```cpp
 //example implementation shim
 #include <windows.h>
 #include <array>
 
-using dfloat = double;
+using dfloat = float; //for fast
+using dfloat = double; //for correct
 
 extern "C" {
     __declspec(dllimport) void setConstant(double* value); //ensure range is between 0.045 and 0.085, defaults to 0.057
