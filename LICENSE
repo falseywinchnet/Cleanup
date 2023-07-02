@@ -61,8 +61,9 @@ OR OTHERWISE.
 Subject to the terms of this Agreement, Licensor grants to Licensee
 a limited and nonexclusive license (without the right to sublicense)
 to execute one (1) copy of the Software, in executable object code form only,
-solely on the device that Licensee own or controls and solely for use for Licensee's personal, non-commercial purposes,
-except for specific provisions as declared elsewhere in this agreement.
+solely on the device that Licensee own or controls and solely for use for Licensee's personal,
+non-commercial purposes, except for specific provisions as declared elsewhere in this agreement.
+
 
 
 Licensee may use the software, including wrapping it in an x86 emulator 
@@ -108,13 +109,13 @@ Licensee acknowledges and agrees that such conduct will be deemed "reverse engin
 Furthermore, Licensee additionally agrees that to modify, translate, decompile, disassemble 
 or generate works derived from the Software,shall be considered "reverse-engineering".
 
-Licensee acknowledges and agrees that the Software contains valuable trade secrets and proprietary information
-of the copyright holder, that any reverse engineering actual or threatened will constitute 
-immediate, irreparable harm for which monetary damages would be an inadequate remedy,
-and that injunctive relief is an appropriate but not limiting remedy for such breach.
-Therefore, under such circumstances, the copyright holder reserves the right to pursue all remedies 
-available under law, including but not limited to, seeking injunctive relief, damages, 
-and any applicable statutory penalties. 
+Licensee acknowledges and agrees that the Software contains valuable trade secrets
+and proprietary information of the copyright holder, that any reverse engineering actual 
+or threatened will constitute  immediate, irreparable harm for which monetary damages 
+would be an inadequate remedy, and that injunctive relief is an appropriate but not limiting 
+remedy for such breach. Therefore, under such circumstances, the copyright holder reserves 
+the right to pursue all remedies  available under law, including but not limited to, 
+seeking injunctive relief, damages, and any applicable statutory penalties. 
 
 
 
@@ -142,8 +143,9 @@ to accomplish the objectives of such provision to the greatest extent possible u
 law and the remaining provisions will continue in full force and effect.
 
 All waivers by the copyright holder will be effective only if in writing.
-Any waiver or failure by the copyright holder to enforce any provision of this license agreement
-on one occasion will not be deemed a waiver of any other provision or of such provision on any other occasion.
+Any waiver or failure by the copyright holder to enforce any provision 
+of this license agreement on one occasion will not be deemed a waiver 
+of any other provision or of such provision on any other occasion.
 
 
 The agreement is concluded for an indefinite period.
@@ -168,9 +170,10 @@ This software is free for personal use. Licensee may install it on as
 many computers as they like, and use it however Licensee likes within 
 the terms of the license agreement.
 
-Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
-Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
-or to use it in any other form for commercial purposes. 
+Licensee is prohibited from passing on the Software or copies thereof
+to a third party in return for payment. Licensee is prohibited to pass on, rent 
+or lease the Software to a third party for business purposes, 
+or to use it in any other form for commercial purposes, under a personal license.
 
 Additionally, if Licensee uses the software in an educational capacity, 
 whether as part of a public or private sector academic institution, then 
@@ -180,6 +183,13 @@ compensated activity. Such use shall be considered commercial.
 ==END TERMS APPLYING TO TO PERSONAL USE==
 
 ==TERMS APPLYING TO COMMERCIAL AND GOVERNMENT DIRECT USE=
+
+Licensee is prohibited from passing on the Software or copies thereof
+to a third party in return for payment. Licensee is prohibited to pass on,
+rent or lease the Software  to a third party for business purposes, 
+or to use it in any other form for commercial purposes, except as provided
+in the commercial uses clause as follows:
+
 The Software may not be used to support or facilitate communications 
 pertaining to battle planning or tactical command channels involved 
 with offensive military operations in foreign territories or over 
@@ -202,10 +212,6 @@ value-added work done for customers, clients or others, even as part of
 a broader offering where the usage is unclear or undeclared, shall be 
 considered "re-use" and must be licensed under the "re-use" provision. 
 
-Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
-Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
-or to use it in any other form for commercial purposes. 
-
 The commercial and government terms do not apply to individuals or 
 organizations in the private sector covered under re-use, including 
 military contractors providing communication services and derived, licensed
@@ -218,9 +224,11 @@ into a paid program, service, or device shall be considered re-use.
 
 ==TERMS APPLYING TO REUSE==
 
-Licensee is prohibited from passing on the Software or copies thereof to a third party in return for payment.
-Licensee is prohibited to pass on, rent or lease the Software to a third party for business purposes, 
-or to use it in any other form for commercial purposes, except as provided under the specific conditions listed below:
+Licensee is prohibited from passing on the Software or copies
+thereof to a third party in return for payment. Licensee is prohibited to pass on, 
+rent or lease the Software to a third party for business purposes,  or to use it 
+in any other form for commercial purposes, 
+except as provided under the specific conditions listed below:
 
 Licensee may not(unless Licensee gives all of the royalties to copyright 
 holder) take compensation for the software, whether to install it, make 
