@@ -18,10 +18,17 @@ using dfloat = float; //for fast
 using dfloat = double; //for correct
 
 extern "C" {
+    struct Version {
+        const char* version;
+    };
+
     __declspec(dllimport) void setConstant(double* value); //ensure range is between 0.045 and 0.085, defaults to 0.057
     __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0 and 1, defaults to 1
     __declspec(dllimport) void set_NBINS(int* value); //ensure range is between 5 and 257, defaults to 37
     __declspec(dllimport) void process(std::array<dfloat, 8192>* input); //ensure sampling rate is 48k
+    __declspec(dllexport) void getEntropy(std::array<dfloat, 64>* input); //get the current entropy samples
+    __declspec(dllimport) Version version();
+    }
 }
 
 int main() {
@@ -44,6 +51,8 @@ int main() {
     // resolve function process from the DLL
     auto funcProcess = (void (*)(std::array<dfloat, 8192>*)) GetProcAddress(hGetProcIDDLL, "process");
 
+    auto funcEntropy = (void (*)(std::array<dfloat, 64>*)) GetProcAddress(hGetProcIDDLL, "getEntropy");
+
     if (!funcSetConstant || !funcSetMult || !funcSetNBins || !funcProcess) {
         std::cout << "could not locate the function" << std::endl;
         return EXIT_FAILURE;
@@ -61,6 +70,9 @@ int main() {
 
     std::array<dfloat, 8192> inputArray;
     funcProcess(&inputArray); //will impose a fixed 170.66ms delay
+
+    std::array<dfloat, 64> entArray;
+    funcEntropy(&entArray); //will return the entropy values
 
     FreeLibrary(hGetProcIDDLL);
     return 0;
