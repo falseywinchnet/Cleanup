@@ -9,7 +9,7 @@ Version 1.2 7.4.23
 Copyright (c) 2023, Joshuah Rainstar joshuah.rainstar@gmail.com
 All rights reserved.
 
-This software is licensed under the FREE AS IN FREE TOOTHPASTE  LICENSE.
+This software is licensed under the FREE AS IN FREE TOOTHPASTE LICENSE.
 By using this software, you are agreeing to the terms and conditions
 laid out in the license. For the purposes of this license agreement, 
 "Licensor" shall be considered equivalent to the copyright holder.
@@ -64,18 +64,16 @@ to execute one (1) copy of the Software, in executable object code form only,
 solely on the device that Licensee own or controls and solely for use for Licensee's personal,
 non-commercial purposes, except for specific provisions as declared elsewhere in this agreement.
 
-
-
-Licensee may use the software, including wrapping it in an x86 emulator 
-on non-x86 systems,  including shipping it with Licensee's software 
-and/or hardware, provided the following conditions are met:
+Licensee may addiionally use the software, including wrapping it in an x86 emulator 
+on non-x86 systems, including shipping it with Licensee's software 
+and/or hardware, provided all respective following conditions and terms are met, 
+and use, reuse, sale or distribution is governed under one of the reuse provisioning clauses below:
 
 Licensee may not reverse engineer the software. Licensee may not modify 
 the software. Any audio Licensee modifies or produces with the software 
 is intellectual property of the intellectual property holder of the 
 rights to the audio processed with the software(what Licensee gets out 
 is owned by who owns what Licensee put in).
-Other terms must be met additionally as provided below. 
 
 For this license agreement, "programs" shall consist of software 
 developed by Licensee or others, and "devices" shall consist of any 
@@ -113,7 +111,6 @@ remedy for such breach. Therefore, under such circumstances, the copyright holde
 the right to pursue all remedies  available under law, including but not limited to, 
 seeking injunctive relief, damages, and any applicable statutory penalties. 
 
-
 Terms in the "applying to personal use" section shall apply to the direct 
 use of the software by an end user, for personal and education uses only.
 Terms in the "commercial and government direct use" section shall apply 
@@ -123,7 +120,6 @@ electronic devices in a public or private workplace. terms in the
 software with other programs and devices for resale, leasing, or 
 other forms of distribution which may or may not entail compensation 
 to the manufacturer(s) or creator(s). 
-
 
 Changes to this Agreement will apply only to new uses or distribution 
 of the Software. All previous uses and distributions will be governed 
@@ -141,7 +137,6 @@ All waivers by the copyright holder will be effective only if in writing.
 Any waiver or failure by the copyright holder to enforce any provision 
 of this license agreement on one occasion will not be deemed a waiver 
 of any other provision or of such provision on any other occasion.
-
 
 The agreement is concluded for an indefinite period.
 The Licensee’s right to use the Software shall end automatically
