@@ -28,9 +28,9 @@ without regard to its conflict of laws rules.
 
 The Software and all worldwide copyrights, trade secrets, and other 
 iontellectual property rights therein are the exclusive property of the Licensor.
-Licensor reserves all rights in and to the Software nnot expressly granted to you
+Licensor reserves all rights in and to the Software not expressly granted to you
 in this License Agreement.  The Software  (and all copies thereof) is licensed to you, 
-not sold, under this Agreement.  There are no implied licenses in this Agreement. 
+not sold, under this Agreement.  There are no implied licenses in this Agreement.
 
 Certain items of software included with the Software are subject to “open source” or 
 “free software” licenses (“Open Source Software”). Some of the Open Source Software is owned by third parties.
@@ -102,10 +102,6 @@ to train a machine learning method to replicate the behavior of the Software,
 Licensee agrees that these actions shall constitute "reverse engineering"
 and constitute a breach of license. 
 
-In the eventuality that Licensee utilizes the outputs of the Software to 
-train a machine learning method to replicate the behavior of the Software, 
-Licensee acknowledges and agrees that such conduct will be deemed "reverse engineering".
-
 Furthermore, Licensee additionally agrees that to modify, translate, decompile, disassemble 
 or generate works derived from the Software,shall be considered "reverse-engineering".
 
@@ -116,7 +112,6 @@ would be an inadequate remedy, and that injunctive relief is an appropriate but 
 remedy for such breach. Therefore, under such circumstances, the copyright holder reserves 
 the right to pursue all remedies  available under law, including but not limited to, 
 seeking injunctive relief, damages, and any applicable statutory penalties. 
-
 
 
 Terms in the "applying to personal use" section shall apply to the direct 
@@ -161,8 +156,6 @@ the violation is remedied to the satisfaction of the copyright holder.
 Notwithstanding any suspension or cessation of Licensee's rights as 
 previously granted under the license, the remainder of this agreement 
 remains in effect.
-
-
 
 
 ==TERMS APPLYING TO TO PERSONAL USE==
@@ -249,13 +242,15 @@ compressors or expanders, audio gain control algorithms,  display
 interface logic, or algorithms and programming necessary to use the 
 aforementioned together- Licensee agrees the presence of any or all 
 of these items do not create a "substantial purpose" and do not provide 
-an exception to the forfeiture of royalties.
+an exception to the forfeiture of royalties. Additionally, Licensee agrees
+no part of this  category abrogates Licencer's rights pertaining to the software 
+as regards end users or voids end user obligations to accept and comply with this agreement.
 
 Category 2: Devices which may have as a primary purpose denoising or 
 digital signal processing, and programs and devices which have other 
 substantial purposes:
 
-Licensee may sell and may distribute programs and devices incorporating 
+Licensee may sell and may use and distribute programs and devices incorporating 
 the software provided that licensee complies with the following:
 Licensee agrees to recompensate the copyright holder $100 per device 
 that incorporates the software. Licensee agrees to pay the copyright 
@@ -264,7 +259,23 @@ that charges for a service, and licensee's service incorporates the use
 of the software in any capacity, or to purchase a commercial non-expiring 
 license for each relay and instance. Licensee agrees to share earnings 
 from programs sold with copyright owner of $5 per copy licensee sells 
-of said programs.
+of said programs. Additionally, while no part of this category explicitly abronegates
+any rights Licenser may have with regards to the software, irrespective of use or end user,
+by engaging into contract and providing compensation for commercial use,
+paid licensers under category 3 are not subject to certain other provisions of this license agreement
+pertaining to limitations on use provided the following conditions are met:
+licensee agrees that no part of this clause abronegates ownership or grants additional rights
+pertaining to distribution or resale of the Software. With regards to purpose of use and the rights
+to profit from the offering of a service utilizing the Software, Licensee and their clients have no
+obligations to Licenser as regards the clause pertaining to commercial and government use.
+By purchasing a limited commercial category 2 license, Licenser agrees that the limitations required on
+purpose of use and the right to the profits from services employing the software for business purposes
+shall be abronegated for the specific device or installation the license concerns, and that this
+abronegation shall be irrevocable for licensed devices irregardless of resale by end party.
+For programs distributed and for sale, an individual copy shall be considered equivalent to a device
+provided that only one copy may be possessed and used by only one singular entity at any time under any one purchased license.
+For services, a singular installation on a singular computer is licensed to a singular entity to operate,
+and this shall be considered a copy of the program, irrespective of use.
 
 
 Category 3: Free reuse for non-gratis reusers:
@@ -273,7 +284,9 @@ In the scenario where licensee's programs, services and hardware are
 freely provided to users, and licensee receives no contractual or obligated
 compensation, licensee owes nothing to copyright holder- the software is 
 free for licensee to use and incorporate into licensee's services, 
-programs and devices.
+programs and devices.Additionally, Licensee agrees no part of this 
+category abrogates Licencer's rights pertaining to the software as regards end users
+or voids end user obligations to accept and comply with this agreement.
 
 if licensee's service, device or product is free to licensees users, and 
 if licensee does not provide a means for the user to access the interface 
@@ -300,7 +313,10 @@ licensee is honor-bound to redistribute a prospective 5% of their
 compensation(or as much up to 5% as license can reasonably give without 
 creating undue hardship for licensee) to copyright holder, and the usage 
 shall be considered as free reuse(Licensee is obligated to fulfill the 
-provision of category 3 pertaining to the notice).
+provision of category 3 pertaining to the notice). Additionally, 
+Licensee agrees no part of this category abrogates Licencer's rights 
+pertaining to the software as regards end users or voids end user obligations
+to accept and comply with this agreement.
 
 Irrespective of reuse category, licensee must include with their device 
 or software or service documentation this license and copyright 
