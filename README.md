@@ -10,5 +10,5 @@ Other noise filtration methods should be placed after cleanup.\
 
 ![Cleanup User Interface Photo](https://i.imgur.com/465sJq4.png)
 
-All the interface options in the vst3 and lv2 have tooltip instructions.\
+All the interface options in the vst3 have tooltip instructions.\
 To ensure audacity compatibility, vst3 does not have support for direct parameter settings.
