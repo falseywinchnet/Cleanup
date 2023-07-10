@@ -22,12 +22,12 @@ extern "C" {
         const char* version;
     };
 
-    __declspec(dllimport) void setConstant(double* value); //ensure range is between 0.045 and 0.085, defaults to 0.057
-    __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0 and 1, defaults to 1
+    __declspec(dllimport) void setConstant(double* value); //good range is between 0.045 and 0.085, defaults to 0.057, valid is 0.001 to 1
+    __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0.0 and 1.0, defaults to 1.0
     __declspec(dllimport) void set_NBINS(int* value); //ensure range is between 5 and 257, defaults to 37
     __declspec(dllimport) void set_NBINSHZ(int* value); //set to your bandwidth in hz of what you're sending us
-    __declspec(dllexport) void set_Silent(bool* value); //enable for auto-squelch
-    __declspec(dllexport) void set_Renorm(bool* value);//enable to normalize good audio;
+    __declspec(dllexport) void set_Silent(bool* value); //enable for auto-squelch, defaults to true
+    __declspec(dllexport) void set_Renorm(bool* value);//enable to normalize good audio, defaults to true
     __declspec(dllimport) void process(std::array<dfloat, 8192>* input); //ensure sampling rate is 48k
     __declspec(dllexport) void getEntropy(std::array<dfloat, 64>* input); //get the current entropy samples
     __declspec(dllimport) Version version();
