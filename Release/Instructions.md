@@ -25,7 +25,6 @@ extern "C" {
     __declspec(dllimport) void setConstant(double* value); //ensure range is between 0.045 and 0.085, defaults to 0.057
     __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0 and 1, defaults to 1
     __declspec(dllimport) void set_NBINS(int* value); //ensure range is between 5 and 257, defaults to 37
-    __declspec(dllimport) void set_NBINSHZ(int* value); //ensure range is between 5 and 257, defaults to 37
     __declspec(dllimport) void set_NBINSHZ(int* value); //set to your bandwidth in hz of what you're sending us
     __declspec(dllexport) void set_Silent(bool* value); //enable for auto-squelch
     __declspec(dllexport) void set_Renorm(bool* value);//enable to normalize good audio;
