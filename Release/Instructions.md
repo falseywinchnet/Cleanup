@@ -6,8 +6,6 @@ Licensed under the Free as in Free Toothpaste license
 - it links to complex, numeric, algorithm, cmath, and array headers only. 
 - no dynamic memory- all static. 16mb of stack reserved per instance. At most- 5mb used.
 - absolutely no memset or recursion anywhere- all standard arrays and clean behavior.
-- the fast versions expect an array of float, the correct versions expect array of doubles.
-- suggest using `fast` x86 for embedded devices. 
 
 ```cpp
 //example implementation shim
