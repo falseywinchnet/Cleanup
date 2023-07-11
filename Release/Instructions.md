@@ -10,6 +10,7 @@ Licensed under the Free as in Free Toothpaste license
     - such is not included in cleanup, to ensure its behavior is predictable. cleanup = remove noise. Not improve signal.
     - As such, such methods should proceed cleanup, with the caveat that intelligent squelching will not work the same, perhaps at all.
     - Additionally, you should usually if not always run a notch filter before cleanup.
+- all settings are optional- the program will work without initializing them.
 
 ```cpp
 //example implementation shim
