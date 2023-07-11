@@ -28,6 +28,7 @@ extern "C" {
     __declspec(dllimport) void set_MULT(double* value); //ensure range is between 0.0 and 1.0, defaults to 1.0
     __declspec(dllimport) void set_NBINS(int* value); //ensure range is between 5 and 257, defaults to 37
     __declspec(dllimport) void set_NBINSHZ(int* value); //set to your bandwidth in hz of what you're sending us
+    //note: you only need to either set the HZ or the bins. Interally, bins is set based on Hz.
     __declspec(dllimport) void set_Silent(bool* value); //enable for auto-squelch, defaults to true
     __declspec(dllimport) void set_Renorm(bool* value);//applies clipping to output shaping so that nothing is amplified beyond input volume, default true
     __declspec(dllimport) void set_PCS(bool* value);//enable to apply perceptual contrast stretching equalizer, defaults to true
