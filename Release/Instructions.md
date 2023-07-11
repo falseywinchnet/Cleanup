@@ -26,6 +26,7 @@ extern "C" {
     __declspec(dllimport) void set_NBINSHZ(int* value); //set to your bandwidth in hz of what you're sending us
     __declspec(dllexport) void set_Silent(bool* value); //enable for auto-squelch, defaults to true
     __declspec(dllexport) void set_Renorm(bool* value);//enable to normalize good audio, defaults to true
+    __declspec(dllexport) void set_PCS(bool* value);;//enable to apply perceptual contrast stretching equalizer, defaults to true
     __declspec(dllimport) void process(std::array<dfloat, 8192>* input); //ensure sampling rate is 48k
     __declspec(dllexport) void getEntropy(std::array<dfloat, 64>* input); //get the current entropy samples
     __declspec(dllimport) Version version();
