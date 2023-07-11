@@ -26,7 +26,8 @@ extern "C" {
     __declspec(dllimport) void set_NBINSHZ(int* value); //set to your bandwidth in hz of what you're sending us
     __declspec(dllimport) void set_Silent(bool* value); //enable for auto-squelch, defaults to true
     __declspec(dllimport) void set_Renorm(bool* value);//applies clipping to output shaping so that nothing is amplified beyond input volume, default true
-    __declspec(dllimport) void set_PCS(bool* value);;//enable to apply perceptual contrast stretching equalizer, defaults to true
+    __declspec(dllimport) void set_PCS(bool* value);//enable to apply perceptual contrast stretching equalizer, defaults to true
+    __declspec(dllimport) void getResult(int* value);//2 = there was good signal, 1 = first 384 samples were from previous frame overlap, 0 = nothing
     __declspec(dllimport) void process(std::array<dfloat, 8192>* input); //ensure sampling rate is 48k
     __declspec(dllimport) void getEntropy(std::array<dfloat, 64>* input); //get the current entropy samples
     __declspec(dllimport) Version version();
