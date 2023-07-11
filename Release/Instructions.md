@@ -6,6 +6,10 @@ Licensed under the Free as in Free Toothpaste license
 - it links to complex, numeric, algorithm, cmath, and array headers only. 
 - no dynamic memory- all static. 16mb of stack reserved per instance. At most- 5mb used.
 - absolutely no memset or recursion anywhere- all standard arrays and clean behavior.
+- you should probably apply ephraim-malah and spectral shaping in advance of this filter.
+    - such is not included in cleanup, to ensure its behavior is predictable. cleanup = remove noise. Not improve signal.
+    - As such, such methods should proceed cleanup, with the caveat that intelligent squelching will not work the same, perhaps at all.
+    - Additionally, you should usually if not always run a notch filter before cleanup.
 
 ```cpp
 //example implementation shim
