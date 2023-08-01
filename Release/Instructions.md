@@ -1,6 +1,6 @@
 # Cleanup DLL Instructions
 Copyright Joshuah Rainstar 2023 \
-Licensed under the Free as in Free Toothpaste license
+Licensed under the Free as in Free Toothpaste license(binaries only, source code is MIT licensed)
 
 - The dll allocates a bunch of stack, very little heap.
 - it links to complex, numeric, algorithm, cmath, and array headers only. 
