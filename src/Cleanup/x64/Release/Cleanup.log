@@ -1,2 +1,0 @@
-﻿clang-cl : warning : argument unused during compilation: '/GT' [-Wunused-command-line-argument]
-  Cleanup.vcxproj -> C:\Users\admin\source\repos\Cleanup\x64\Release\Cleanup.dll

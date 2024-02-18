@@ -1,8 +1,0 @@
-﻿  pch.cpp
-  dllmain.cpp
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(39,62): error C2131: expression did not evaluate to a constant
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(22,18): message : failure was caused by call of undefined function or one not declared 'constexpr'
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(22,18): message : see usage of 'std::array<Filter::dfloat,512>::operator []'
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(40,58): error C2131: expression did not evaluate to a constant
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(22,18): message : failure was caused by call of undefined function or one not declared 'constexpr'
-C:\Users\admin\source\repos\Cleanup\Cleanup\cleanup.h(22,18): message : see usage of 'std::array<Filter::dfloat,512>::operator []'
