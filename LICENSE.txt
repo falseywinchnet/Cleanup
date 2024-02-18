@@ -1,0 +1,334 @@
+This software is licensed "free as in free toothpaste". 
+Adoption and use are legally unhindered- anyone can "use" the software
+for personal uses freely. Workplace use is honor-bound for compensation and limited.
+Reuse for profit or to provide a service is restricted.
+
+==LICENSE BEGINS==
+FREE AS IN FREE TOOTHPASTE FREE/DONATIONWARE LICENSE
+Version 1.2 7.4.23
+Copyright (c) 2023, Joshuah Rainstar joshuah.rainstar@gmail.com
+All rights reserved.
+
+This software is licensed under the FREE AS IN FREE TOOTHPASTE LICENSE.
+By using this software, you are agreeing to the terms and conditions
+laid out in the license. For the purposes of this license agreement, 
+"Licensor" shall be considered equivalent to the copyright holder.
+For the purpose of this license agreement, "Licensee" shall be considered
+equivalent to the user whether user is an individual or other legal entity.
+No part of this license agreement waives or voids the copyright holder's 
+rights pertaining to the software.For the purposes of this license 
+agreeement, "the software/this software" refers to the copyright 
+protected and licensed binaries and source code offered in this 
+repository, and to all copies present anywhere they may be.
+Subject to the terms and conditions of this agreement, copyright holder 
+hereby grants licensee a non-exclusive, non-transferable right 
+to use the software. This agreement shall be governed by and construed 
+in accordance with the laws of the State of Delaware, United States, 
+without regard to its conflict of laws rules.
+
+The Software and all worldwide copyrights, trade secrets, and other 
+iontellectual property rights therein are the exclusive property of the Licensor.
+Licensor reserves all rights in and to the Software not expressly granted to you
+in this License Agreement.  The Software  (and all copies thereof) is licensed to you, 
+not sold, under this Agreement.  There are no implied licenses in this Agreement.
+
+Certain items of software included with the Software are subject to “open source” or 
+“free software” licenses (“Open Source Software”). Some of the Open Source Software is owned by third parties.
+The Open Source Software is not subject to the terms and conditions of this License Agreement. 
+Instead, each item of Open Source Software is licensed under the terms of the end user license 
+that accompanies such Open Source Software. Nothing in this Agreement limits your rights under,
+or grants you rights that supersede, the terms and conditions of any applicable end user license 
+for the Open Source Software. If required by any license for particular Open Source Software, 
+ Licensor makes such Open Source Software, and Licensor’s modifications to that Open Source Software,
+available by written request to  Licensor at the email or mailing address listed above.
+
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS 
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT 
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS 
+FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT 
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, 
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED 
+TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR 
+PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF 
+LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING 
+NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS 
+SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. COPYRIGHT 
+HOLDER ACCEPTS NO LIABILITY FOR ANY INJURIES OR EXPENSES SUSTAINED IN 
+THE ACT OF FULFILLING ANY OF THE ABOVE TERMS AND CONDITIONS, ACCIDENTAL 
+OR OTHERWISE.
+
+Subject to the terms of this Agreement, Licensor grants to Licensee
+a limited and nonexclusive license (without the right to sublicense)
+to execute one (1) copy of the Software, in executable object code form only,
+solely on the device that Licensee own or controls and solely for use for Licensee's personal,
+non-commercial purposes, except for specific provisions as declared elsewhere in this agreement.
+
+Licensee may addiionally use the software, including wrapping it in an x86 emulator 
+on non-x86 systems, including shipping it with Licensee's software 
+and/or hardware, provided all respective following conditions and terms are met, 
+and use, reuse, sale or distribution is governed under one of the reuse provisioning clauses below:
+
+Licensee may not reverse engineer the software. Licensee may not modify 
+the software. Any audio Licensee modifies or produces with the software 
+is intellectual property of the intellectual property holder of the 
+rights to the audio processed with the software(what Licensee gets out 
+is owned by who owns what Licensee put in).
+
+For this license agreement, "programs" shall consist of software 
+developed by Licensee or others, and "devices" shall consist of any 
+physical electronic device Licensee develops, licenses or sells.
+For the purposes of this license, 'incorporation' of the Software 
+into other programs or devices is defined as the integration of the 
+Software's functionality into such programs or devices that makes use 
+of the Software's primary features or functions. 'Distribution' refers 
+to the act of making the Software available to others through selling, 
+leasing, or otherwise transferring copies of the Software in its 
+standalone form or as part of other software or devices.
+
+In the eventuality that Licensee develops programs which incorporate 
+the software, and distributes them on devices, and does not charge for 
+the programs, but does charge for devices, Licensee agrees the usage 
+shall be considered under the provisions for incorporation into devices, 
+and not incorporation into programs, likewise, if the opposite is 
+true(Licensee charges for programs but not for the devices), Licensee 
+agrees the usage shall be considered under the provisions for 
+incorporation into programs, and not incorporation into devices.
+
+In the eventuality that Licensee utilizes the outputs of the Software 
+to train a machine learning method to replicate the behavior of the Software,
+Licensee agrees that these actions shall constitute "reverse engineering"
+and constitute a breach of license. 
+
+Furthermore, Licensee additionally agrees that to modify, translate, decompile, disassemble 
+or generate works derived from the Software,shall be considered "reverse-engineering".
+
+Licensee acknowledges and agrees that the Software contains valuable trade secrets
+and proprietary information of the copyright holder, that any reverse engineering actual 
+or threatened will constitute  immediate, irreparable harm for which monetary damages 
+would be an inadequate remedy, and that injunctive relief is an appropriate but not limiting 
+remedy for such breach. Therefore, under such circumstances, the copyright holder reserves 
+the right to pursue all remedies  available under law, including but not limited to, 
+seeking injunctive relief, damages, and any applicable statutory penalties. 
+
+Terms in the "applying to personal use" section shall apply to the direct 
+use of the software by an end user, for personal and education uses only.
+Terms in the "commercial and government direct use" section shall apply 
+to the installation and operation of the software on work-related 
+electronic devices in a public or private workplace. terms in the 
+"reuse" section shall apply to the integration and packaging of the 
+software with other programs and devices for resale, leasing, or 
+other forms of distribution which may or may not entail compensation 
+to the manufacturer(s) or creator(s). 
+
+Changes to this Agreement will apply only to new uses or distribution 
+of the Software. All previous uses and distributions will be governed 
+by the Agreement in place at the time of that use or distribution. 
+Any changes to the Agreement will be communicated clearly and directly 
+to all current users and distributors. Neither the rights nor the obligations 
+arising under this EULA are assignable by the Licensor, and any such attempted assignment
+shall be void and without effect.
+
+If any provision of this EULA is unenforceable, such provision will be changed and interpreted
+to accomplish the objectives of such provision to the greatest extent possible under applicable
+law and the remaining provisions will continue in full force and effect.
+
+All waivers by the copyright holder will be effective only if in writing.
+Any waiver or failure by the copyright holder to enforce any provision 
+of this license agreement on one occasion will not be deemed a waiver 
+of any other provision or of such provision on any other occasion.
+
+The agreement is concluded for an indefinite period.
+The Licensee’s right to use the Software shall end automatically
+without notice in the event of non-compliance with any of the conditions of this agreement.
+
+If Licensee does not agree to the terms Licensee may not use the software, 
+and Licensee must destroy all copies in their possession. In the event 
+that Licensee violates the terms of this agreement, Licensee's rights to 
+use the software are suspended, Licensee is required to cease use of the 
+software and destroy all copies in their possession until such a time as 
+the violation is remedied to the satisfaction of the copyright holder. 
+Notwithstanding any suspension or cessation of Licensee's rights as 
+previously granted under the license, the remainder of this agreement 
+remains in effect.
+
+
+==TERMS APPLYING TO TO PERSONAL USE==
+This software is free for personal use. Licensee may install it on as 
+many computers as they like, and use it however Licensee likes within 
+the terms of the license agreement.
+
+Licensee is prohibited from passing on the Software or copies thereof
+to a third party in return for payment. Licensee is prohibited to pass on, rent 
+or lease the Software to a third party for business purposes, 
+or to use it in any other form for commercial purposes, under a personal license.
+
+Additionally, if Licensee uses the software in an educational capacity, 
+whether as part of a public or private sector academic institution, then 
+Licensee's use shall be considered personal, unless Licensee was paid to
+administer training or educate others and used the software as part of a 
+compensated activity. Such use shall be considered commercial.
+==END TERMS APPLYING TO TO PERSONAL USE==
+
+==TERMS APPLYING TO COMMERCIAL AND GOVERNMENT DIRECT USE=
+
+Licensee is prohibited from passing on the Software or copies thereof
+to a third party in return for payment. Licensee is prohibited to pass on,
+rent or lease the Software  to a third party for business purposes, 
+or to use it in any other form for commercial purposes, except as provided
+in the commercial uses clause as follows:
+
+The Software may not be used to support or facilitate communications 
+pertaining to battle planning or tactical command channels involved 
+with offensive military operations in foreign territories or over 
+international waters without a formal declaration of war by Licensee's 
+nation's legislative body. Communications which pertain to the operations
+of airborne assets in response to hostile anticipated airspace intrusion
+is considered non-offensive and is permitted.
+
+Licensee may not use the software as part of warrantless covert 
+government surveillance efforts on citizens of Licensee's nation. 
+Licensee is expected, but not legally required(Licensees are honor-bound)
+to pay the copyright holder $2 per month per instance where the program 
+is installed. A non-expiring license costs $240 and voids the requirement 
+to pay a monthly recompensation for a single instance.
+
+Licensee is not permitted to directly charge Licensee's customers, clients, 
+or others for the specific use of this software as part of a service. Any 
+service Licensee provides that leverages this software as part of 
+value-added work done for customers, clients or others, even as part of 
+a broader offering where the usage is unclear or undeclared, shall be 
+considered "re-use" and must be licensed under the "re-use" provision. 
+
+The commercial and government terms do not apply to individuals or 
+organizations in the private sector covered under re-use, including 
+military contractors providing communication services and derived, licensed
+reuse consisting of incorporations into value-added devices and software 
+installed on devices. Likewise, only the direct usage of the software 
+is considered `honor-bound`- the incorporation of the software 
+into a paid program, service, or device shall be considered re-use. 
+==END TERMS APPLYING TO COMMERCIAL AND GOVERNMENT USE=
+
+
+==TERMS APPLYING TO REUSE==
+
+Licensee is prohibited from passing on the Software or copies
+thereof to a third party in return for payment. Licensee is prohibited to pass on, 
+rent or lease the Software to a third party for business purposes,  or to use it 
+in any other form for commercial purposes, 
+except as provided under the specific conditions listed below:
+
+Licensee may not(unless Licensee gives all of the royalties to copyright 
+holder) take compensation for the software, whether to install it, make 
+it available, activate, unlock, enable, include, or any other such 
+mechanism, unless it is covered by one of the four categories 
+below listed:
+
+Category 1: DSP software distribution:
+
+Licensee agrees that the distribution of any program which incorporates 
+the software must have a substantial purpose other than noise reduction,
+and if it does not, it must be considered "enabling" and all royalties 
+are to be forfeited to the copyright holder. For the purpose of this 
+license, "substantial" explicitly excludes equalizers, other denoising 
+algorithms, resampling algorithms,decoding/encoding algorithms, audio 
+device handling logic, audio device drivers, audio mixers, audio 
+compressors or expanders, audio gain control algorithms,  display 
+interface logic, or algorithms and programming necessary to use the 
+aforementioned together- Licensee agrees the presence of any or all 
+of these items do not create a "substantial purpose" and do not provide 
+an exception to the forfeiture of royalties. Additionally, Licensee agrees
+no part of this  category abrogates Licencer's rights pertaining to the software 
+as regards end users or voids end user obligations to accept and comply with this agreement.
+
+Category 2: Devices which may have as a primary purpose denoising or 
+digital signal processing, and programs and devices which have other 
+substantial purposes:
+
+Licensee may sell and may use and distribute programs and devices incorporating 
+the software provided that licensee complies with the following:
+Licensee agrees to recompensate the copyright holder $100 per device 
+that incorporates the software. Licensee agrees to pay the copyright 
+holder $2 per month per instance, providing licensee is a service provider 
+that charges for a service, and licensee's service incorporates the use 
+of the software in any capacity, or to purchase a commercial non-expiring 
+license for each relay and instance. Licensee agrees to share earnings 
+from programs sold with copyright owner of $5 per copy licensee sells 
+of said programs. Additionally, while no part of this category explicitly abronegates
+any rights Licenser may have with regards to the software, irrespective of use or end user,
+by engaging into contract and providing compensation for commercial use,
+paid licensers under category 3 are not subject to certain other provisions of this license agreement
+pertaining to limitations on use provided the following conditions are met:
+licensee agrees that no part of this clause abronegates ownership or grants additional rights
+pertaining to distribution or resale of the Software. With regards to purpose of use and the rights
+to profit from the offering of a service utilizing the Software, Licensee and their clients have no
+obligations to Licenser as regards the clause pertaining to commercial and government use.
+By purchasing a limited commercial category 2 license, Licenser agrees that the limitations required on
+purpose of use and the right to the profits from services employing the software for business purposes
+shall be abronegated for the specific device or installation the license concerns, and that this
+abronegation shall be irrevocable for licensed devices irregardless of resale by end party.
+For programs distributed and for sale, an individual copy shall be considered equivalent to a device
+provided that only one copy may be possessed and used by only one singular entity at any time under any one purchased license.
+For services, a singular installation on a singular computer is licensed to a singular entity to operate,
+and this shall be considered a copy of the program, irrespective of use.
+
+
+Category 3: Free reuse for non-gratis reusers:
+
+In the scenario where licensee's programs, services and hardware are 
+freely provided to users, and licensee receives no contractual or obligated
+compensation, licensee owes nothing to copyright holder- the software is 
+free for licensee to use and incorporate into licensee's services, 
+programs and devices.Additionally, Licensee agrees no part of this 
+category abrogates Licencer's rights pertaining to the software as regards end users
+or voids end user obligations to accept and comply with this agreement.
+
+if licensee's service, device or product is free to licensees users, and 
+if licensee does not provide a means for the user to access the interface 
+and access the website URL linked in the software donation URL, licensee 
+must provide either a copy or instructions to obtain a copy, 
+and instructions on how to access the software for seperate use without 
+licensee's devices or programs. This notice must be reasonably prominent- 
+printed on a card and included with devices intended for end users, 
+included in a statement on the service primary access portal in easy view 
+in some small dedicated block, or, if licensee incorporates the software 
+into a program, included as a prominent part of the documentation.
+However, if licensee's program or device or service provides the means to 
+directly access the software's interface and open the URL in a browser, 
+licensee does not need to display any notice in any interface.
+
+Category 4: recursive reuse for pro-bono freeware reusers:
+
+In all cases where licensee's programs, services, or hardware are 
+nominally free, but include a provision establishing or indicating, but 
+not mandating, that a license and additional support, but not other 
+services besides support, can be obtained through compensation, such as a 
+honor-bound commercial licensing scenario similar to what the software offers,
+licensee is honor-bound to redistribute a prospective 5% of their 
+compensation(or as much up to 5% as license can reasonably give without 
+creating undue hardship for licensee) to copyright holder, and the usage 
+shall be considered as free reuse(Licensee is obligated to fulfill the 
+provision of category 3 pertaining to the notice). Additionally, 
+Licensee agrees no part of this category abrogates Licencer's rights 
+pertaining to the software as regards end users or voids end user obligations
+to accept and comply with this agreement.
+
+Irrespective of reuse category, licensee must include with their device 
+or software or service documentation this license and copyright 
+declaration, making them available to end users.
+
+==END REUSE TERMS==
+
+ All supplements to this contract, including this clause, must be made in writing.
+
+==END LICENSE==
+The software provided here is declared to nominally work on a 
+carrier-free(notch-filtered) 16 or 24 bit 48khz audio signal, to provide 
+exceptional noise filtration and impulse noise immunity for voice activity, 
+to cause only a 170.66ms delay, and to work within 32MB of memory on any
+SSE2 or newer x86-64 system running windows 10 or newer. The software is 
+declared to not include any encryption algorithms or to offer any 
+warrantee of suitability, and is excempt from all known controls on 
+software distribution. 
+
+Binaries for your platform and architecture are available on request. 
