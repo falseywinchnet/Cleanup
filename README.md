@@ -1,5 +1,5 @@
 # Cleanup 
-Cleanup is a novel DSP algorithm for denoising speech. Cleanup is Open Source Freeware with no warrantee or support.\
+Cleanup is a novel DSP algorithm for denoising speech. Cleanup is Freeware with no warrantee or support.\
 It is designed to work primarily on radio- shortwave, FM, VHF, UHF. It is presently similar to sdrsharp's NINR but 
 for narrowband modes only. Currently, out of all AI models for denoising, only izotope's VEA is as good.\
 It boasts the best and simplest VAD approximation possible.\
